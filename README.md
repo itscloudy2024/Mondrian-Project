@@ -1,5 +1,5 @@
 # Mondrian-Project
-This project demonstrates how to build a complex geometric layout using CSS Grid by recreating a Mondrian painting with precise spacing, colors, and structure.
+This project demonstrates how to build a complex geometric layout using CSS Grid by recreating a Mondrian painting with precise spacing, colors, and structure
 # 🎨 Mondrian Art Layout — Pure HTML & CSS
 
 This project is a recreation of a Piet Mondrian–style abstract art piece using **only HTML and CSS**.  
